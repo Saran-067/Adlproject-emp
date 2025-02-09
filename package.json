@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@iconify-json/tabler": "^1.2.16",
+    "@tabler/icons-react": "^3.30.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -14,7 +16,9 @@
     "ajv-keywords": "^5.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
+    "tabler-icons-react": "^1.56.0",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
